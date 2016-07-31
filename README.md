@@ -1,7 +1,7 @@
 X1用BASIC ROMボード CZ-8RB回路
 =============
 
-詳細は http://www.retropc.net/mm/archives/1254 に書いてあります。
+詳細は http://www.retropc.net/mm/x1/CZ-8RB/index.html に書いてあります。
 
 ##パーツリスト
 
