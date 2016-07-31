@@ -37,7 +37,7 @@ $Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title ""
-Date ""
+Date "31 jul 2016"
 Rev ""
 Comp ""
 Comment1 ""
@@ -1350,4 +1350,6 @@ $EndComp
 Connection ~ -2150 4950
 Entry Wire Line
 	10450 8300 10550 8400
+Text Notes 14500 10150 0    60   ~ 0
+I/O\n0E00h,0E01h,0E02h[W]:address\n0E03h[R]:data
 $EndSCHEMATC
